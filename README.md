@@ -8,5 +8,4 @@ Roll, pitch, yaw values are based on camera settings set in `~/Documents/setting
 Run using
 ```
   python3 ~/FILE.py INPUT.txt OUTPUT.txt ROLL PITCH YAW # angle in degrees
-
 ```
