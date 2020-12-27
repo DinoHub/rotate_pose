@@ -1,5 +1,5 @@
 # rotate_pose
-Aligns SLAM output position output with AirSim groundtruth based on camera orientation and SLAM coordinate system.
+Aligns SLAM position output with AirSim groundtruth based on camera orientation and SLAM coordinate system.
 
 # Guide
 Input odometry results must be in TUM format.
